@@ -1,0 +1,79 @@
+body{
+    color: white;
+    background-color: #000000;
+    font-family: Tahoma;    
+}
+
+.pic01
+{
+    width: 1280px;
+    height: 600px;    
+    background-image: url(../images/back-img-02.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+         
+    border-radius: 50px 50px 0px 0px;    
+    
+    
+}
+.part1
+{
+    background-color: grey;
+    width: 1280px;
+    height: 900px; 
+    text-align: left; 
+    border-radius: 50px 50px 50px 50px;      
+    
+}
+.txt1
+{
+    font-family: Tahoma;
+    font-size: medium;
+    color: #ffffff;    
+    font-size: 33px;
+    padding: 0px 0px 0px 50px ;
+
+}
+.part2
+{
+    width: 1280px;
+    background-color: grey;
+    border-radius: 50px 50px 50px 50px;  
+    text-align: center;  
+    padding: 50px 0px 50px 0px;   
+}
+.txt2
+{
+    width: 1280px;
+    font-family: Tahoma;
+    font-size: medium;
+    color: #ffffff;    
+    font-size: 30px; 
+    margin-top: -140px   ;
+}
+.MainText
+{
+    text-align: left;
+    width: 1280px;
+    font-size: 33px;
+    Margin: 35px 35px 35px 35px; 
+    line-height: 1.5 ;      
+    
+}
+h1{
+    margin-top: -230px;
+    font-size: 80px;
+}
+ul{
+    margin-top: -20px;
+}
+a{
+    color: white;
+}
+.pic02
+{
+    width: 1280px;
+    height: 400px;      
+   
+     
+}
